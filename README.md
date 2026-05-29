@@ -1,75 +1,80 @@
-# 👋 ¡Hola! Soy Brian Steven Cardona Arenas
+# Brian Steven Cardona Arenas
 
-### 🚀 Full-Stack Software Developer | Apasionado por la innovación tecnológica
-![image](https://github.com/user-attachments/assets/e040bbc2-a510-4201-be2e-bc53bc4ed627)
-
----
-
-### 💻 Tecnologías principales:
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Senior Software Engineer | Full-Stack Developer**  
+I design and build scalable backend systems, distributed architectures, and full-stack applications using modern technologies across backend, frontend, mobile, and data-driven solutions.
 
 ---
 
-### 🌟 Experiencia destacada:
-1. **Desarrollo de Sistemas Escalables y Distribuidos**  
-   - Implementación de soluciones tecnológicas para optimizar procesos empresariales y mejorar la eficiencia operativa.  
-   - Diseño de arquitecturas distribuidas y desarrollo de módulos para la gestión empresarial, garantizando escalabilidad y rendimiento.  
-   - Experiencia en el uso de tecnologías modernas como Spring Boot, Laravel, Docker y bases de datos relacionales.
+## About
 
-2. **Automatización y Procesamiento Inteligente de Datos**  
-   - Desarrollo de herramientas avanzadas para la extracción, análisis y procesamiento de datos, mejorando la toma de decisiones.  
-   - Uso de tecnologías como OCR y servicios backend para soluciones automatizadas y eficientes.
+Full-Stack Software Developer with 4+ years of experience building maintainable and scalable software solutions.
 
-3. **Desarrollo de Aplicaciones Centrado en el Usuario**  
-   - Creación de interfaces dinámicas y accesibles en plataformas móviles y web, asegurando experiencias atractivas e intuitivas.  
-   - Implementación de aplicaciones responsivas utilizando frameworks como React, React Native y Node.js.  
-   - Enfoque en rendimiento y accesibilidad para usuarios finales.
+My main focus is backend engineering with Java, Spring Boot, Spring Cloud, Spring AI, Node.js, NestJS, and Express, combined with frontend and mobile development using React, TypeScript, Redux, and React Native.
+
+I have experience working on microservices, REST APIs, distributed systems, ERP platforms, PLM and WMS/inventory processes, web crawling, ETL pipelines, observability, centralized logging, and scalable deployments with Docker.
+
+I care about clean architecture, reliable systems, readable code, and software that solves real business problems.
 
 ---
 
-### 📊 GitHub Stats
+## Core Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=briancardonar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=briancardonar&theme=dark&hide_border=true)
-
----
-
-### 📚 Lenguajes Más Usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briancardonar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+**Backend:** Java, Spring Boot, Spring Cloud, Spring AI, Node.js, NestJS, Express, PHP, Laravel, .NET  
+**Frontend & Mobile:** React, React Native, TypeScript, JavaScript, Redux  
+**Databases:** MariaDB, MySQL, PostgreSQL, MongoDB  
+**Architecture & Tools:** Microservices, REST APIs, Docker, Git, Bitbucket, ELK/EFK, Kibana, Selenium WebDriver  
+**Practices:** Clean Code, SOLID, Clean Architecture, CQRS, Scrum
 
 ---
 
-### 🟠 Filosofía de desarrollo:
-- 📐 Desarrollo de código limpio y mantenible aplicando principios **SOLID**.  
-- ⏱️ Colaboración ágil utilizando metodologías como **SCRUM**.  
-- 🌐 Compromiso con la eficiencia, la escalabilidad y la innovación.
+## Technical Focus
+
+- Microservices and distributed systems with the Spring ecosystem.
+- API design, service-to-service communication, versioning, pagination, and integrations.
+- ERP, PLM, WMS, inventory, production, logistics, and traceability systems.
+- Web crawling and automation using Selenium WebDriver, queues, retries, backoff strategies, and multithreading.
+- ETL processes for data migration, replication, validation, and internal system synchronization.
+- Observability and centralized logging with ELK/EFK stacks and Kibana dashboards.
+- Web and mobile interfaces with React, Redux, TypeScript, and React Native.
 
 ---
 
-### 🎯 Sobre mí:
-Me apasiona desarrollar soluciones tecnológicas que impacten positivamente en las empresas y los usuarios. Estoy constantemente aprendiendo nuevas tecnologías para enfrentar desafíos complejos y contribuir al éxito de los proyectos.
+## Experience Snapshot
+
+**Senior Software Engineer at WDT & M, LLC**  
+Working on microservices and backend solutions using Spring Boot, Spring Cloud, Spring AI, REST APIs, observability, distributed system design, and scalable service communication.
+
+**Software Engineer at Glovanze**  
+Built ERP modules across backend, frontend, and mobile applications, focused on PLM and WMS/inventory workflows. Contributed to microservice migration, API standardization, ETL processes, and scalable deployments.
 
 ---
 
-## 📫 Contacto
+## Technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+## GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=briancardonar&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=briancardonar&theme=github_dark&hide_border=true&layout=compact)
+
+---
+
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/Briancardonar)
 - [Instagram](https://instagram.com/Briancardonar)
-
----
-
-¡Explora mis repositorios y conecta conmigo para trabajar juntos en ideas increíbles! 🚀

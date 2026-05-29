@@ -1,17 +1,18 @@
 # Brian Steven Cardona Arenas
 
-**Senior Software Engineer | Full-Stack Developer**  
-I design and build scalable backend systems, distributed architectures, and full-stack applications using modern technologies across backend, frontend, mobile, and data-driven solutions.
+**Senior Software Engineer | Full-Stack Developer**
+
+Full-Stack Software Developer with 4+ years of experience designing and building scalable, maintainable software solutions with modern technologies.
 
 ---
 
 ## About
 
-Full-Stack Software Developer with 4+ years of experience building maintainable and scalable software solutions.
+I am a software engineer focused on backend systems, distributed architectures, and full-stack application development.
 
-My main focus is backend engineering with Java, Spring Boot, Spring Cloud, Spring AI, Node.js, NestJS, and Express, combined with frontend and mobile development using React, TypeScript, Redux, and React Native.
+My main experience is in backend development with Java, Spring Boot, Spring Cloud, Spring AI, Node.js, NestJS, Express, PHP, Laravel, and .NET; frontend and mobile development with React, TypeScript, Redux, and React Native; and database management with MariaDB, MySQL, PostgreSQL, and MongoDB.
 
-I have experience working on microservices, REST APIs, distributed systems, ERP platforms, PLM and WMS/inventory processes, web crawling, ETL pipelines, observability, centralized logging, and scalable deployments with Docker.
+I have worked on microservices, REST APIs, ERP platforms, PLM and WMS/inventory processes, web crawling solutions, ETL pipelines, observability, centralized logging, and scalable deployments with Docker.
 
 I care about clean architecture, reliable systems, readable code, and software that solves real business problems.
 
@@ -56,21 +57,11 @@ Built ERP modules across backend, frontend, and mobile applications, focused on 
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-## GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=briancardonar&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=briancardonar&theme=github_dark&hide_border=true&layout=compact)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
